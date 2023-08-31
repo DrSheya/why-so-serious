@@ -15,10 +15,34 @@ const SuperQuality = () => {
         <p className="font-montserrat text-slate-300 text-lg leading-7 mt-4 mb-10 lg:max-w-lg sm:max-w-sm">
           why so serious wurde aus dem Gedanken gegründen eine solide Heroic only Raidgruppe zu schaffen,
           welche in einem angemessenen Tempo den Hc-content cleared (Woche 1 spätestens Woche 2).
+        </p>
+        <p className="font-montserrat text-slate-300 text-lg leading-7 mt-4 mb-10 lg:max-w-lg sm:max-w-sm">
+            Neben dem Raidbetrieb wollen wir ebenso unseren Fokus auf Mythic + setzen, um so das ein oder andere M+ Drama 
+            mit Pug's zu umgehen. 
+        </p>
+        <p className="font-montserrat text-slate-300 text-lg leading-7 mt-4 mb-10 lg:max-w-lg sm:max-w-sm">
+            Der leitende Part der Gilde hat bereits in diversen sHc / Hc Gilden zusammen geraidet und kann somit 
+            einiges an erfahrung in punkto Leitung vorweisen.
+            Da wir aber alle nicht jünger werden und zum teil auch Familie haben, kam uns die idee eine Raid Gilde zu schaffen die sich 
+            ausschließlich auf den Heroic content fokusiert. 
+
+        </p>
+        <p className="font-montserrat text-slate-300 text-lg leading-7 mt-4 mb-10 lg:max-w-lg sm:max-w-sm">
+          Sollte dich dieser kleine aber feine Text angesprochen haben, zögere nicht dich bei uns vorzustellen. 
+          Oder falls fragen bestehen einen der Gildenleiter anzusprechen.
+
+        </p>
+        <p className="font-montserrat text-slate-300 text-lg leading-7 mt-4 mb-10 lg:max-w-lg sm:max-w-sm">
+          Auf Bald ! 
+          <br />
+          - Die Gildenleitung von why so serious
 
         </p>
         <div className="mt-11">
+          <a href="https://raider.io/guilds/eu/blackmoore/why%20s%C3%B4%20seri%C3%B4us">
             <Button lable="Raider.Io profile!" />
+          </a>
+            
         </div>
         
       </div>

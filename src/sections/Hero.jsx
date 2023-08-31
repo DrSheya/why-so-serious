@@ -4,6 +4,7 @@ import { Button } from "../components";
 import ContentCard from "../components/ContentCard";
 import { smallImg, statistics } from "../constants";
 import { useState } from "react";
+import { navLinks } from "../constants";
 
 const Hero = () => {
   const [bigImg, setNextImage] = useState(bigImg1);
@@ -28,7 +29,10 @@ const Hero = () => {
          Dann bewerbt euch jetzt ! 
          Wir Rekrutieren derzeit sämtliche Klassen und Spezialisierungen! 
         </p>
-        <Button lable="Erfahre Mehr!" iconURL={arrowRight} />
+        <a href={navLinks[3].href}>
+          <Button lable="Erfahre Mehr!" iconURL={arrowRight} />
+        </a>
+        
         <div className="flex justify-start items-start flex-wrap w-full mt-20 gap-16 ">
           {statistics.map((stat) => (
             <div key={stat.label}>

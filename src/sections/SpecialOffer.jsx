@@ -28,6 +28,15 @@ const SpecialOffer = () => {
           <li>-Loot verteilung via RC-lootcouncil ( dem raid nutzend entsprechend )</li>
           <li>-M+ begeisterung auch nach clearen des Raid-Contents</li>
         </ul>
+        <p className="font-montserrat text-slate-300 text-lg leading-7 mt-4 mb-10 lg:max-w-lg sm:max-w-sm">
+         Was wir bieten :
+        </p>
+        <ul >
+          <li>- Kritikfähigkeit </li>
+          <li>- Kommunikation </li>
+          <li>- Selbständige Raidvorbereitung (Food, Flask, Echants) etc . </li>
+          <li>- Humor ( wer viel lacht hat mehr spaß und steckt den einen oder anderen damit vielleicht an!)</li>
+        </ul>
         <div className="mt-11">
             <Button lable="Jetzt Bewerben!" />
         </div>
