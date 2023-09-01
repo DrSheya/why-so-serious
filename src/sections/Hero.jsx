@@ -17,7 +17,7 @@ const Hero = () => {
         <p className="text-xl font-monserrat text-slate-300">
           Willkommen auf unserer Homepage !
         </p>
-        <h1 className="mt-10 font-palanquin text-8xl max-sm:text-[72px] max-sm:leading-[82] font-bold text-slate-300 ">
+        <h1 className="mt-10 font-palanquin text-8xl max-sm:text-[72px] max-sm:leading-[82px] font-bold text-slate-300 ">
           <span className="xl:bg-dark xl:whitespace-nowrap relative z-10 pr-10  ">
             why so serious
           </span>
@@ -50,7 +50,7 @@ const Hero = () => {
           alt="collection"
           width={610}
           height={490}
-          className="object-contain relative z-10 rounded-2xl"
+          className="object-contain relative z-11 rounded-2xl"
         />
 
         <div className="flex sm:gap-6 gap-4 absolute -bottom-[5%] sm:left-[10%] max-sm:px-6">
