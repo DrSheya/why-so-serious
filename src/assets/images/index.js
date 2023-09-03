@@ -11,9 +11,9 @@ import headerLogo from './why-so-serious-logo.png'
 
 import offer from './want-you.jpg'
 
-import productIMG1 from './drsheya.jpg'
-import productIMG2 from './Veroxzmage.jpg'
-import productIMG3 from './Chihereo.jpg'
+import productIMG1 from './drsheya.png'
+import productIMG2 from './verox.jpg'
+import productIMG3 from './logo-small.png'
 
 
 import thumbnailBackground from './thumbnail-background.svg'
