@@ -29,7 +29,7 @@ const SpecialOffer = () => {
           <li>-M+ begeisterung auch nach clearen des Raid-Contents</li>
         </ul>
         <p className="font-montserrat text-slate-300 text-lg leading-7 mt-4 mb-10 lg:max-w-lg sm:max-w-sm">
-         Was wir bieten :
+         Was du mitbringen solltest :
         </p>
         <ul >
           <li>- Kritikfähigkeit </li>
@@ -38,7 +38,7 @@ const SpecialOffer = () => {
           <li>- Humor ( wer viel lacht hat mehr spaß und steckt den einen oder anderen damit vielleicht an!)</li>
         </ul>
         <div className="mt-11">
-            <Button lable="Jetzt Bewerben!" />
+            <a href="https://raider.io/guilds/eu/blackmoore/why%20s%C3%B4%20seri%C3%B4us/recruitment"><Button lable="Jetzt Bewerben!" /></a>
         </div>
         
       </div>
