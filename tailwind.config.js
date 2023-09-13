@@ -27,7 +27,8 @@ export default {
         "slate-gray": "#6D6D6D",
         "pale-blue": "#F5F6FF",
         "white-400": "rgba(255, 255, 255, 0.80)",
-        "head-100": "#25232300"
+        "head-100": "#25232300",
+        "menu-background": "rgba(0, 0, 0, 0.900)"
       },
       boxShadow: {
         '3xl': '0 10px 40px rgba(0, 0, 0, 0.1)'

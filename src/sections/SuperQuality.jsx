@@ -13,7 +13,7 @@ const SuperQuality = () => {
           <span className="text-slate-500 inline-block mt-3 relative z-10">why so serious</span> 
         </h2>
         <p className="font-montserrat text-slate-300 text-lg leading-7 mt-4 mb-10 lg:max-w-lg sm:max-w-sm">
-          why so serious wurde aus dem Gedanken gegründen eine solide Heroic only Raidgruppe zu schaffen,
+          why so serious wurde aus dem Gedanken gegründet eine solide Heroic only Raidgruppe zu schaffen,
           welche in einem angemessenen Tempo den Hc-content cleared (Woche 1 spätestens Woche 2).
         </p>
         <p className="font-montserrat text-slate-300 text-lg leading-7 mt-4 mb-10 lg:max-w-lg sm:max-w-sm">
