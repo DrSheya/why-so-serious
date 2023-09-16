@@ -1,6 +1,7 @@
 import bigImg1 from './wow2.jpg'
 import bigImg2 from './wow1.jpg'
 import bigImg3 from './wow3.jpg'
+import bigImg4 from './wow2.jpg'
 
 
 import customer1 from './customer1.jpeg'
@@ -26,6 +27,7 @@ export {
     bigImg1,
     bigImg2,
     bigImg3,
+    bigImg4,
 
     customer1,
     customer2,

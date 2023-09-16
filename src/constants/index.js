@@ -1,5 +1,5 @@
 import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons";
-import { bigImg1, bigImg2, bigImg3, customer1, customer2, productIMG1, productIMG2, productIMG3, thumbnailImg1, thumbnailImg2, thumbnailImg3 } from "../assets/images";
+import { bigImg1,  bigImg3, customer1, customer2, productIMG1, productIMG2, productIMG3, thumbnailImg1, thumbnailImg2, thumbnailImg3 } from "../assets/images";
 
 export const navLinks = [
     { href: "#home", label: "Home" },
@@ -13,14 +13,15 @@ export const smallImg = [
         thumbnail: thumbnailImg1,
         bigImg: bigImg1,
     },
-    {
-        thumbnail: thumbnailImg2,
-        bigImg: bigImg2,
-    },
+    //{
+     //   thumbnail: thumbnailImg2,
+   //     bigImg: bigImg2,
+   // },
     {
         thumbnail: thumbnailImg3,
         bigImg: bigImg3,
     },
+
 ];
 
 export const statistics = [

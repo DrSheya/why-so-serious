@@ -7,7 +7,14 @@ const ContentCard = ({ imgURL, changeContent, bigImage }) => {
             changeContent(imgURL.bigImg)
         }
     };
-    
+    useEffect (() => {
+      const intervall = setInterval(() => {
+        handleClick();
+      },35000);
+      return () => {
+        clearInterval(intervall);
+      };
+    });
 
     return (
         <div
