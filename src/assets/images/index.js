@@ -15,6 +15,7 @@ import offer from './want-you.jpg'
 import productIMG1 from './drsheya.png'
 import productIMG2 from './verox.jpg'
 import productIMG3 from './logo-small.png'
+import productIMG4 from './Darki.png'
 
 
 import thumbnailBackground from './thumbnail-background.svg'
@@ -39,6 +40,7 @@ export {
     productIMG1,
     productIMG2,
     productIMG3,
+    productIMG4,
 
 
     thumbnailBackground,

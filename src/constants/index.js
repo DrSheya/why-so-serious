@@ -1,5 +1,5 @@
 import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons";
-import { bigImg1,  bigImg3, customer1, customer2, productIMG1, productIMG2, productIMG3, thumbnailImg1, thumbnailImg2, thumbnailImg3 } from "../assets/images";
+import { bigImg1,  bigImg3, customer1, customer2, productIMG1, productIMG2, productIMG3, productIMG4, thumbnailImg1, thumbnailImg2, thumbnailImg3 } from "../assets/images";
 
 export const navLinks = [
     { href: "#home", label: "Home" },
@@ -26,8 +26,8 @@ export const smallImg = [
 
 export const statistics = [
     { value: '2.5k+', label: 'M+ Experience' },
-    { value: 'Aberrus', label: '9/9 Heroic' },
-    { value: '20+', label: 'Members' }
+    { value: 'ATDH', label: '9/9 NM' },
+    { value: '10+', label: 'Members' }
 ];
 
 export const products = [
@@ -45,6 +45,21 @@ export const products = [
         imgURL: productIMG3,
         name: "Nararas",
         rank: "Member",
+    },
+    {
+        imgURL: productIMG4,
+        name: "Twinblader",
+        rank: "Member",
+    },
+    {
+        imgURL: productIMG3,
+        name: "Pastel",
+        rank: "Social",
+    },
+    {
+        imgURL: productIMG3,
+        name: "Nightyna",
+        rank: "Social",
     },
 ];
 
@@ -86,8 +101,8 @@ export const footerLinks = [
     {
         title: "Find Guild at :",
         links: [
-            { name: "Raider.io", link: "/" },
-            { name: "WoW-Progress", link: "/" },
+            { name: "Raider.io", link: "https://raider.io/guilds/eu/blackmoore/why%20s%C3%B4%20seri%C3%B4us" },
+            { name: "WoW-Progress", link: "https://www.wowprogress.com/guild/eu/blackmoore/why+s%C3%B4+seri%C3%B4us" },
             { name: "WoW-Armory", link: "/" },
         ],
     },
@@ -96,6 +111,7 @@ export const footerLinks = [
         links: [
             { name: "Dr.Sheya  @Twitch", link: "https://www.twitch.tv/docsheya" },
             { name: "Veroxz  @Twitch", link: "https://www.twitch.tv/veroxz_x3" },
+            { name: "Twinblader  @Twitch", link: "https://www.twitch.tv/tbdarky" },
 
         ],
     },
