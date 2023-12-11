@@ -6,14 +6,14 @@ const App = () => (
     <section className="xl:padding-l wide:padding-r padding-b " >
       <Hero />
     </section>
-    <section className="padding" >
+    <section className="padding"  id="about-us" >
       <SuperQuality />
     </section>
-    <section className="padding" >
+    <section className="padding" id="products" >
       <Popular />
     </section>
 
-    <section className="padding" >
+    <section className="padding" id="contact-us">
       <SpecialOffer />
     </section>
  

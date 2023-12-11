@@ -2,7 +2,7 @@ import { offer } from "../assets/images"
 import { Button } from "../components";
 const SpecialOffer = () => {
   return (
-    <section className="flex justify-wrap items-center max-xl:flex-col-reverse gap-5 max-container" id="contact-us">
+    <section className="flex justify-wrap items-center max-xl:flex-col-reverse gap-5 max-container" >
       <div className="flex-1 ">
         <img src={offer} width={773} height={687} className="object-contain w-100 rounded-4xl max-lg:hidden" />
       </div>

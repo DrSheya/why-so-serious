@@ -3,7 +3,7 @@ import { Button } from "../components";
 import { bigImg3 } from "../assets/images";
 const SuperQuality = () => {
   return (
-    <section id="about-us" className="flex justify-between items-center max-lg:flex-col gap-10 w-full max-container">
+    <section className="flex justify-between items-center max-lg:flex-col gap-10 w-full max-container">
       <div className="flex felx-1 flex-col" >
         <h2 className="font-palanquin text-4xl capitalize font-bold text-slate-300 lg:max-w-lg">
           <span className="xl:bg-dark xl:whitespace-nowrap relative z-10 pr-10  ">
