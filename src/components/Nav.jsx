@@ -22,7 +22,7 @@ const Nav = () => {
             <ul className='flex-1 flex justify-center items-center gap-16 max-lg:hidden '>
               {navLinks.map((item) => (
                 <li key={item.label}>
-                  <a href={item.href} className='font-montserrat leadeing-normal text-lg text-slate-300  hover:text-yellow-400' >{item.label}</a>
+                  <a href={item.href} className='font-montserrat leadeing-normal text-lg text-slate-300  hover:text-white' >{item.label}</a>
                 </li>
               ) )}
             </ul>
