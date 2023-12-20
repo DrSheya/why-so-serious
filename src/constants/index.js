@@ -26,7 +26,7 @@ export const smallImg = [
 
 export const statistics = [
     { value: '2.5k+', label: 'M+ Experience' },
-    { value: 'ATDH', label: '9/9 NM' },
+    { value: 'ATDH', label: '9/9 HC' },
     { value: '10+', label: 'Members' }
 ];
 
