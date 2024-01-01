@@ -14,7 +14,17 @@
 html {
   background-color: #25232300;
 }
+::-webkit-scrollbar {
+  width: 8px;
+}
 
+::-webkit-scrollbar:horizontal {
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-slate-300 rounded-xl;
+}
 @layer components {
   .max-container {
     max-width: 1440px;
