@@ -8,13 +8,13 @@ import customer1 from './customer1.jpeg'
 import customer2 from './customer2.svg'
 
 import footerLogo from './footer-logo.svg'
-import headerLogo from './why-so-serious-logo.png'
+import headerLogo from './logo.jpg'
 
 import offer from './want-you.jpg'
 
 import productIMG1 from './drsheya.png'
 import productIMG2 from './verox.jpg'
-import productIMG3 from './logo-small.png'
+import productIMG3 from './logo.jpg'
 import productIMG4 from './Darki.png'
 
 

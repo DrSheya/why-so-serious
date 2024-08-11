@@ -56,11 +56,7 @@ export const products = [
         name: "Pastel",
         rank: "Social",
     },
-    {
-        imgURL: productIMG3,
-        name: "Nightyna",
-        rank: "Social",
-    },
+
 ];
 
 export const services = [
@@ -101,7 +97,7 @@ export const footerLinks = [
     {
         title: "Find Guild at :",
         links: [
-            { name: "Raider.io", link: "https://raider.io/guilds/eu/blackmoore/why%20s%C3%B4%20seri%C3%B4us" },
+            { name: "Raider.io", link: "https://raider.io/guilds/eu/blackmoore/Therapy%20Enraged" },
             { name: "WoW-Progress", link: "https://www.wowprogress.com/guild/eu/blackmoore/why+s%C3%B4+seri%C3%B4us" },
             { name: "WoW-Armory", link: "/" },
         ],

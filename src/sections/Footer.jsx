@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="max-container">
       <div className="flex justify-between items-start gap-20 flex-wrap max-lg:flex-col">
         <div className="flex flex-col items-start">
-          <a href="/"><img src={headerLogo} width={200} height={80} /></a>
+          <a href="/"><img src={headerLogo} width={80} height={80} className="rounded-full" /></a>
           <div className="flex items-center gap-5 mt-8">
             {socialMedia.map ( (item, index) => (
               <div className="flex justify-center items-center w-12 h-12 bg-white rounded-full  hover:bg-slate-300 cursor-pointer" >

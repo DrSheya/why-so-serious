@@ -17,7 +17,7 @@ const Nav = () => {
     <header className='padding-x py-2 z-20 w-full fixed  bg-stone-900 '>
         <nav className={`flex justify-between items-center max-container ${isMenuOpen ? 'menu-open' : 'menu-closed'}`} >
             <a href={navLinks[0].href}>
-                <img src={headerLogo} alt="Logo" width={220} height={50} />
+            <img src={headerLogo} alt="Logo" width={80} height={50} className='rounded-full' />
             </a>
             <ul className='flex-1 flex justify-center items-center gap-16 max-lg:hidden '>
               {navLinks.map((item) => (

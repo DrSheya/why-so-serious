@@ -15,7 +15,7 @@ const SpecialOffer = () => {
           <span className="text-slate-500 inline-block mt-3 relative z-10">Dich !</span> 
         </h2>
         <p className="font-montserrat text-slate-300 text-lg leading-7 mt-4 mb-10 lg:max-w-lg sm:max-w-sm">
-         Seid ihr daran interessiert ein teil von <span>why so serious</span> zu werden ?
+         Seid ihr daran interessiert ein teil von <span>Therapy Enraged</span> zu werden ?
          Dann bewerbt euch jetzt ! 
          Wir Rekrutieren derzeit sämtliche Klassen und Spezialisierungen!  
         </p>

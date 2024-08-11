@@ -10,10 +10,10 @@ const SuperQuality = () => {
            Über uns 
           </span>
           <br />
-          <span className="text-slate-500 inline-block mt-3 relative z-10">why so serious</span> 
+          <span className="text-slate-500 inline-block mt-3 relative z-10">Therapy Enraged</span> 
         </h2>
         <p className="font-montserrat text-slate-300 text-lg leading-7 mt-4 mb-10 lg:max-w-lg sm:max-w-sm">
-          why so serious wurde aus dem Gedanken gegründet eine solide Heroic only Raidgruppe zu schaffen,
+          Therapy Enraged wurde aus dem Gedanken gegründet eine solide Heroic only Raidgruppe zu schaffen,
           welche in einem angemessenen Tempo den Hc-content cleared (Woche 1 spätestens Woche 2).
         </p>
         <p className="font-montserrat text-slate-300 text-lg leading-7 mt-4 mb-10 lg:max-w-lg sm:max-w-sm">
@@ -35,7 +35,7 @@ const SuperQuality = () => {
         <p className="font-montserrat text-slate-300 text-lg leading-7 mt-4 mb-10 lg:max-w-lg sm:max-w-sm">
           Auf Bald ! 
           <br />
-          - Die Gildenleitung von why so serious
+          - Die Gildenleitung von Therapy Enraged
 
         </p>
         <div className="mt-11">

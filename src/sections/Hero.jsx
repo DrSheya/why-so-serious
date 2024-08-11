@@ -19,13 +19,13 @@ const Hero = () => {
         </p>
         <h1 className="mt-10 font-palanquin text-8xl max-sm:text-[50px] max-sm:leading-[82px] font-bold text-slate-300 ">
           <span className="xl:bg-dark xl:whitespace-nowrap relative z-10 pr-10 ">
-            why so serious
+            Therapy Enraged
           </span>
           <br />
           <span className="text-slate-500 inline-block mt-3 relative z-10">@Blackmoore</span> 
         </h1>
         <p className="font-montserrat text-slate-300 text-lg leading-8 mt-6 mb-14 sm:max-w-sm">
-        Seid ihr daran interessiert ein teil von <span>why so serious</span> zu werden ?
+        Seid ihr daran interessiert ein teil von <span>Therapy Enraged</span> zu werden ?
          Dann bewerbt euch jetzt ! 
          Wir Rekrutieren derzeit sämtliche Klassen und Spezialisierungen! 
         </p>

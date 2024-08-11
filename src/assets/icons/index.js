@@ -7,7 +7,7 @@ import hamburger from './Menu.svg'
 import instagram from './instagram.svg'
 import support from './support.svg'
 import shieldTick from './shield-tick.svg'
-import star from './logo-small.png'
+import star from './logo.jpg'
 import truckFast from './truck-fast.svg'
 import twitter from './twitter.svg'
 
